@@ -23,4 +23,4 @@ draft
 
 draft test
 
-![](https://res.cloudinary.com/blog-nextjs-netlify-cms/image/upload/c_scale,f_auto,q_auto,w_480/v1583984819/cedc7e1c92c44712ef912936a7c60fa18_18668622_200311_0246_ysqayv.jpg)
+![](/img/17254393-1-.jpeg)
